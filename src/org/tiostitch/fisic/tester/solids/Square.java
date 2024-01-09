@@ -8,7 +8,12 @@ public final class Square implements Solids {
     }
 
     @Override
+<<<<<<< HEAD
     public double getAceleracao() {
         return 1;
+=======
+    public String getName() {
+        return "Square";
+>>>>>>> 5707d63 (Correção de Física)
     }
 }
