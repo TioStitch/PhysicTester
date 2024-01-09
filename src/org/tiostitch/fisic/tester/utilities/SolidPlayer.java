@@ -10,10 +10,6 @@ import lombok.Setter;
 public final class SolidPlayer {
 
     private double x;
-<<<<<<< HEAD
-    private double massa, aceleracao;
-=======
     private double massa;
     private String name;
->>>>>>> 5707d63 (Correção de Física)
 }
